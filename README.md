@@ -1,5 +1,4 @@
 # miniproject2SoklyHour
-# miniproject1SoklyHour
 
 ### INF601 - Advanced Programming in Python
 ### Sokly Hour
