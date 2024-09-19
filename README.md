@@ -11,7 +11,10 @@ This project will be using Pandas dataframes. The objective is to formulate five
 The dataset I used focuses on the job role, industry, company size, location, required skills, salary, and more in order to answer questions made up for the assignment.
 
 I used ai_job_market_insights.csv datasets to answer the following questions:
-
+What is the average salary for each industry?
+How many jobs require each specific skill?
+How does the number of jobs vary by industry and AI adoption level?
+What is the average salary in different locations?
 
 ## Getting Started
 
