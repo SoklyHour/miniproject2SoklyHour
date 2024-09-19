@@ -36,7 +36,7 @@ In the terminal, please type the following:
 python main.py
 ```
 ## Output
-This should create 5 graphs in charts to answer all the 5 questions.
+This should create 4 graphs in charts to answer all the 4 questions.
 
 ## Authors
 
