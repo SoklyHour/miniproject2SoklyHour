@@ -22,7 +22,7 @@ I used ai_job_market_insights.csv datasets to answer the following questions:
 You will need to download the 'ai_job_market_insights.csv' from Kaggle.com in order to use the same dataframes as the project intended.
 * [ai_job_market_insights.csv](https://www.kaggle.com/datasets/uom190346a/ai-powered-job-market-insights)
 
-[Note]: To ensure the script runs correctly, please place the ai_job_market_insights.csv file in the same directory as the main.py script.
+***Note: Ensure that the ai_job_market_insights.csv file is located in the same directory as the main.py script. This is necessary for the script to execute successfully.***
 
 ### Dependencies
 
