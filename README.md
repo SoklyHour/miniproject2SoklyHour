@@ -6,7 +6,7 @@
 
 ## Description
 
-This project will be using Pandas dataframes. The objective is to formulate five questions and provide answers based on the five graphs from the ai_job_market_insights.csv datasets. This exercise will familiarize you with working with datasets, posting questions, researching APIs, and gathering datasets.
+This project will be using Pandas dataframes. The objective is to formulate four questions and provide answers based on the four graphs from the ai_job_market_insights.csv datasets. This exercise will familiarize you with working with datasets, posting questions, researching APIs, and gathering datasets.
 
 The dataset I used focuses on the job role, industry, company size, location, required skills, salary, and more in order to answer questions made up for the assignment.
 
@@ -40,7 +40,7 @@ In the terminal, please type the following:
 python main.py
 ```
 ## Output
-This should create 4 graphs in charts to answer all the 4 questions.
+This should create 4 graphs in the charts folder to answer all the 4 questions.
 
 ## Authors
 
@@ -53,3 +53,5 @@ SoklyHour
 ## Acknowledgments
 Inspiration, code snippets, etc.
 * [matplotlib](https://matplotlib.org/stable/tutorials/pyplot.html)
+* [pandas](https://pandas.pydata.org/docs/reference/api/pandas.crosstab.html)
+* [chatgpt](https://chatgpt.com/share/66ecf95c-608c-8005-b4da-f326a632bb01)
